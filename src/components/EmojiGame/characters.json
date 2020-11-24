@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "clicked": false,
+    "name": "Exploding Head",
+    "image": "./images/memoji-1.png"
+  },
+  {
+    "id": 2,
+    "clicked": false,
+    "name": "Grinning Face with Sweat",
+    "image": "./images/memoji-2.png"
+  },
+  {
+    "id": 3,
+    "clicked": false,
+    "name": "Smiling Face with Heart-Eyes",
+    "image": "./images/memoji-3.png"
+  },
+  {
+    "id": 4,
+    "clicked": false,
+    "name": "Smirking Face",
+    "image": "./images/memoji-4.png"
+  },
+  {
+    "id": 5,
+    "clicked": false,
+    "name": "Thinking Face",
+    "image": "./images/memoji-5.png"
+  },
+  {
+    "id": 6,
+    "clicked": false,
+    "name": "Winking Face",
+    "image": "./images/memoji-6.png",
+    "occupation": "Singer"
+  },
+  {
+    "id": 7,
+    "clicked": false,
+    "name": "Grinning Face",
+    "image": "./images/memoji-7.png"
+  },
+  {
+    "id": 8,
+    "clicked": false,
+    "name": "Crying Face",
+    "image": "./images/memoji-8.png"
+  },
+  {
+    "id": 9,
+    "clicked": false,
+    "name": "Astonished Face",
+    "image": "./images/memoji-9.png"
+  },
+  {
+    "id": 10,
+    "clicked": false,
+    "name": "Face with Tears of Joy",
+    "image": "./images/memoji-10.png"
+  },
+  {
+    "id": 11,
+    "clicked": false,
+    "name": "Star-Struck",
+    "image": "./images/memoji-11.png"
+  },
+  {
+    "id": 12,
+    "clicked": false,
+    "name": "Winking Face with Tongue",
+    "image": "./images/memoji-12.png"
+  }
+]

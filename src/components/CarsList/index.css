@@ -1,0 +1,14 @@
+.carsListContainer {
+  display: flex;
+  flex-direction: row;
+}
+
+.car {
+  display: flex;
+  flex-direction: column;
+  max-width: 200px;
+  padding: 20px;
+}
+.default-btn {
+  max-width: 100px;
+}

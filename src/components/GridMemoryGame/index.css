@@ -1,0 +1,21 @@
+.animations-active {
+  transition: width 0.2s ease, height 0.2s ease;
+}
+.animations-failed {
+  transition: width 0.2s ease;
+}
+
+.grid-field-animation {
+  animation-name: example;
+  animation-duration: 3s;
+  transition: opacity 0.2s ease;
+}
+
+@keyframes example {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}

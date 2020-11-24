@@ -1,0 +1,42 @@
+[
+  {
+    "cellCount": 3,
+    "memoryCount": 3,
+    "fieldSize": 300
+  },
+  {
+    "cellCount": 4,
+    "memoryCount": 4,
+    "fieldSize": 300
+  },
+  {
+    "cellCount": 5,
+    "memoryCount": 5,
+    "fieldSize": 350
+  },
+  {
+    "cellCount": 6,
+    "memoryCount": 6,
+    "fieldSize": 350
+  },
+  {
+    "cellCount": 7,
+    "memoryCount": 7,
+    "fieldSize": 400
+  },
+  {
+    "cellCount": 8,
+    "memoryCount": 8,
+    "fieldSize": 450
+  },
+  {
+    "cellCount": 9,
+    "memoryCount": 9,
+    "fieldSize": 500
+  },
+  {
+    "cellCount": 10,
+    "memoryCount": 10,
+    "fieldSize": 550
+  }
+]

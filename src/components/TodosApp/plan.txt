@@ -1,0 +1,79 @@
+- Step 1
+
+- Divide TodosApp in to React components
+
+
+- TodosApp
+    - TodosList
+        - Todo
+    - UserInput
+    - TodoFooter
+
+- TodosApp	
+    - TodosList
+        - Todo
+    - UserInput
+    - TodoFooter
+        - ActiveTodosCount
+        - AllButton
+        - CompletedButton
+        - ActiveButton
+        - ClearCompletedButton 
+        
+- TodosApp
+    - TodosList
+        - Todo
+    - UserInput
+    - TodoFooter
+        - ActiveTodosCount
+        - TodoFilters
+            - AllButton
+            - CompletedButton
+            - ActiveButton
+            - ClearCompletedButton 
+        
+
+- Step 2: UI with props
+
+- Render UI only with props
+
+- Step 3: 
+
+a) State
+
+- Minimal representation of UI in State
+
+- userInput
+- listOfAllItems
+- listOfCompletedItems
+- listOfActiveItems
+- activeTodosCount
+- selectedFilter
+- showClearCompleted
+
+questions:
+
+- Is it changing over a period of time? video?
+- Can it be computed based on other piece of state?
+
+
+App State
+
+- userInput
+- selectedFilter
+- todos
+- eachTodoState
+
+b) Who should be given state?
+
+- userInput to userInput component
+- selectedFilter to TodosApp
+- todos to TodosApp
+
+- step 4:
+
+- Connect all other functionality
+
+- Step 5:
+
+- Optimise renders
